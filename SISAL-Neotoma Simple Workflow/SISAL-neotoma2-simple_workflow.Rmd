@@ -383,7 +383,8 @@ datasets(africa_datasets) %>%
   as.data.frame() %>% 
   head() %>% 
   flextable() %>% 
-  fontsize(size = 6, part = "all") %>%
+  fontsize(size = 8, part = "all") %>%
+  width(width = 1.2) %>%
   autofit() 
 ```
 
@@ -440,7 +441,8 @@ africa_dl <- readRDS("data/africaDownload.RDS")
 as.data.frame(africa_dl) %>% 
   head() %>% 
   flextable() %>% 
-  fontsize(size = 6, part = "all") %>%
+  fontsize(size = 8, part = "all") %>%
+  width(width = 1.2) %>%
   autofit() 
 ```
 Once we've downloaded, we now have information for each site about all the associated collection units, the datasets, and, for each dataset, all the samples associated with the datasets.
@@ -491,7 +493,8 @@ neotomatx <- africa_dl %>% neotoma2::filter(datasettype == 'speleothem') %>% tax
 neotomatx %>% 
   head() %>% 
   flextable() %>% 
-  fontsize(size = 6, part = "all") %>%
+  fontsize(size = 8, part = "all")  %>%
+  width(width = 1.2) %>%
   autofit() 
 ```
 
