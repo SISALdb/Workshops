@@ -56,7 +56,7 @@ editor_options:
 
 ```{r setup, echo=FALSE}
 options(warn = -1)
-pacman::p_load(neotoma2, dplyr, ggplot2, sf, geojsonsf, leaflet, flextable, readr, stringr, rioja, tidyr, patchwork)
+pacman::p_load(neotoma2, dplyr, ggplot2, sf, geojsonsf, leaflet, flextable, readr, stringr, tidyr, patchwork)
 ```
 
 # Introduction
@@ -628,7 +628,7 @@ We load the packages using the `pacman` package, which will automatically instal
 ```{r setupFake, eval=FALSE} 
 options(warn = -1) -->
 
-pacman::p_load(neotoma2, dplyr, ggplot2, sf, geojsonsf, leaflet, terra, flextable, readr, stringr, rioja) 
+pacman::p_load(neotoma2, dplyr, ggplot2, sf, geojsonsf, leaflet, terra, flextable, readr, stringr) 
 ```
 
 Note that R is sensitive to the order in which packages are loaded.
