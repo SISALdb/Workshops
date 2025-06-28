@@ -1,6 +1,3 @@
-[![language-EN](https://img.shields.io/badge/language-EN-red)](README.md) [![language](https://img.shields.io/badge/language-ES-red)](README.es.md) [![language-RU](https://img.shields.io/badge/language-RU-red)](README.ru.md)
-[![language-JP](https://img.shields.io/badge/language-JP-red)](README.jp.md)
-
 [![lifecycle](https://img.shields.io/badge/lifecycle-active-orange.svg)](https://www.tidyverse.org/lifecycle/#active)
 [![NSF-1948926](https://img.shields.io/badge/NSF-1948926-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1948926)
 
@@ -26,11 +23,12 @@ This is an open project and contributions are welcome from any individual.  All 
 
 * [![orcid](https://img.shields.io/badge/orcid-0000--0002--3693--5946-brightgreen.svg)](https://orcid.org/0000-0002-3693-5946) [Nora Schlenker](https://geography.wisc.edu/staff/schlenker-nora/)
 
-### Translations
+* [![orcid](https://img.shields.io/badge/orcid-0000--0002--2220--9046-brightgreen.svg)](https://orcid.org/0000-0002-2220-9046) [Nikita Kaushal](mailto:nikitageologist@gmail.com)
 
-* Russian: [Arsenii Galimov](https://ipae.uran.ru/Galimov_AT)
-* Spanish: [Deborah V. Espinosa-Martínez](https://orcid.org/0000-0002-3848-8094)
-* Japanese: [Socorro Dominguez Vidana](https://ht-data.com/about.html)
+* [![orcid](https://img.shields.io/badge/orcid-0000--0002--5013--4811-brightgreen.svg)](https://orcid.org/0000-0002-5013-4811) [Laura Endres](mailto:endres@eaps.ethz.ch)
+
+* [Sandra Bernegger](mailto:sbernegger@ethz.ch)
+
 
 ## How to use this repository
 
