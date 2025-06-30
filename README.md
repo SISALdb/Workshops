@@ -33,7 +33,7 @@ This is an open project and contributions are welcome from any individual.  All 
 
 ## How to use this repository
 
-This repository contains two different R workflows, a complex workflow that shows how to manage and modify chronologies with the R package, and a simple workflow that shows how to access data and perform relatively simple analysis. These workflows may be modified for content (e.g., focusing on different dataset types or geospatial contexts).
+This repository contains currently a simple workflow that shows how to access data and perform relatively simple analysis. These workflows may be modified for content (e.g., focusing on different dataset types or geospatial contexts).
 
 Users may clone this workshop and modify the content, but be aware that the Binder links are specific to this repository, and must be modified through the users' own Binder setup.
 
