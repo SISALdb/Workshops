@@ -7,7 +7,8 @@ A repository to host interactive R workshops. This repository will always be set
 
 This repository is built with the structure required to serve the content through an interactive, online RStudio session using Binder (and Docker). Clicking the Binder link will open RStudio in the user's browser.
 
-**Currently, this repo hosts the Workshop to be delivered in Aarhus about Species Distribution Modelling with pollen data.**
+**This repo hosts the Workshop for a simple workflow on how to access SISAL data in Neotoma.**
+It builds upon the materials from the workshop of the Karst conference KR10.
 
 To access the content for this Workshop, click the badge below:
 
